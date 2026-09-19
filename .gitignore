@@ -1,0 +1,11 @@
+# Ignore CSV data files
+*.csv
+
+# Ignore Compiled Executables
+*.exe
+
+# Ignore Python cache and virtual environments (Bonus Pro Tip)
+__pycache__/
+*.pyc
+venv/
+.env
